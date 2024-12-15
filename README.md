@@ -183,16 +183,22 @@ Now once all SLA's are added they are now visable in the SLA plan.
 </p>
 <p>
 
+
+<p>
+Finally, Help Topics need to be created to help users select an appropriate category that describes their problem so that Agents get an idea of what problem is described in the ticket. To make a new Help Topic, enter the Admin panel and open the Manage menu. Click on Help Topics and click on Add New Help Topic. In this case, We will add the following in order to use later for when we create new tickets to resolve: Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Request.
 </p>
 <br />
 
-<p>
 
-<p>
-Finally, Help Topics need to be created to help users select an appropriate category that describes their problem so that Agents get an idea of what problem is described in the ticket. To make a new Help Topic, enter the Admin panel and open the Manage menu. Click on Help Topics and click on Add New Help Topic. In this case, I have added the following in order to use later for when I create new tickets to resolve: Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Request.
-</p>
-<br />
+
+<img src="https://i.imgur.com/8qdtOop.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/DgUXVSC.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/64t51jo.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/em3KN4g.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/gc2Si56.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="" height="80%" width="80%" alt="Configuration Steps"/>
 
 <h2>osTicket Configurations are Complete </h2>
 
-Now that the configurations have been set in place, I can now utilize osTicket as a proper ticketing system. I can create tickets and be able to traige them as if I were in a real environment.
+Now that the configurations have been set in place, we can now utilize osTicket as a proper ticketing system. I can create tickets and be able to traige them as if I were in a real environment.
