@@ -177,7 +177,7 @@ Now once all SLA's are added they are now visable in the SLA plan.
 <img src="https://i.imgur.com/ydcJcqi.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/J6dgDjr.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/bfUXZf9.png" height="80%" width="80%" alt="Configuration Steps"/>
-
+<img src="https://i.imgur.com/sllAB3c.png" height="80%" width="80%" alt="Configuration Steps"/>
 <p>
 
 </p>
