@@ -196,8 +196,6 @@ Finally, Help Topics need to be created to help users select an appropriate cate
 <img src="https://i.imgur.com/64t51jo.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/em3KN4g.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/gc2Si56.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
 
 <h2>osTicket Configurations are Complete </h2>
 
