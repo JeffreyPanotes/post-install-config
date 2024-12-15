@@ -101,7 +101,7 @@ Now we will create and configure agents /workers. On the agents tab click and ad
 For this purpose we will add two Agents with differant profiles.The first Agent is Jane who is a Supreme Admin and has acess to all as an Admin.
 On account fill out first and last name as well as a email addresse.
 Now create a user name and set password.
-Once you choose a password uncheck cange at next login.
+Once you choose a password uncheck change at next login.
 
 
 <p>
