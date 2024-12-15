@@ -20,7 +20,7 @@ This demonstrates the necessary changes I make to configure osTicket so it can b
 
 <p>
 
-After Installation of OS Ticket we will need to configure Roles for grouping permissions.Followed by the steps below.
+After Installation of OS Ticket we will need to configure Roles for grouping permissions.
 
 
   
@@ -30,17 +30,17 @@ After Installation of OS Ticket we will need to configure Roles for grouping per
 
 
 
-First is the ADmin Panel > Agents > Roles and add a Supreme Admin.they will access to all components.
+First on the top right panel you can see the Admin Panel click on this tab from there ,now navigate to > Agents > Roles add a new role.
+Name this Supreme Admin. They will access to all components. Next move to permissions and select all boxes as the Supreme Admin will be allowed access to all areas areas in Tickets/ Tasks /and Knowledgebase.
 
 
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/AtMPBCO.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/Jrersip.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/u9R8Guz.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/ZpqCv0T.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/SV0bnSx.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/MWM32ts.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/YlM623I.png" height="80%" width="80%" alt="Configuration Steps"/>
 
 
 <p>
