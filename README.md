@@ -47,7 +47,7 @@ Name this Supreme Admin. They will need access to all components. Next move to p
 <p>
 After Installation of OS Ticket we will also need to configure departments.This will be for Ticket visability. Help desk vs SYSAdmin , VS Networking.
 We will go to Departments and add new.
-Now in Add new Department under parent select Top-Level- Department and next name this Sysadmins and leave all settings the same. Scroll down and create dept.
+Now in Add new Department under parent select Top-Level- Department and next name this Sysadmins and leave all settings the same. Scroll down and create dept.And now we have added SysAdmins to the list of Departments.
 
 
 
@@ -57,10 +57,8 @@ Now in Add new Department under parent select Top-Level- Department and next nam
 <img src="https://i.imgur.com/Cqtzs2i.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/TzTaZYS.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/rAF36uR.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/AoD1SI1.png" height="80%" width="80%" alt="Configuration Steps"/>
+
 
 
 
@@ -68,17 +66,16 @@ Now in Add new Department under parent select Top-Level- Department and next nam
 </p>
 
 
-Once the Departments are setup we will now configure Teams.
+Once the Departments are setup we will now configure Teams. From the same screen now navigate to the Teams tab and now add a new team.
+Name this Online Banking.
 <p>
 
 
 
 
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/AoD1SI1.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/q8lQuHt.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/qpW8wt6.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="" height="80%" width="80%" alt="Configuration Steps"/>
