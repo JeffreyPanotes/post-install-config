@@ -98,6 +98,7 @@ In the settings tab under Registration Required make sure this is unchecked.
 </p>
 
 Now we will create and configure agents /workers. On the agents tab click and add new.
+For this purpose we will add two Agents with differant profiles.The first Agent is Jane who is a Supreme Admin and has acess to all as an Admin.
 On account fill out first and last name as well as a email addresse.
 Now create a user name and set password.
 Once you choose a password uncheck cange at next login.
@@ -112,7 +113,7 @@ Once you choose a password uncheck cange at next login.
 <p>
 
 </p>
-Next we will go through the Access tab  On the drop down menu select SysAdmin and then select Supreme Admin..
+Next we will go through the Access tab  On the drop down menu select SysAdmin and then select Supreme Admin.
 Under Permissions make sure all tabs are selected .
 Finally under the Teams tab on the drop down menu select online banking.
 
@@ -121,11 +122,26 @@ Finally under the Teams tab on the drop down menu select online banking.
 <img src="https://i.imgur.com/0CSzLy1.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/ba2QdZD.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/TdYjuv9.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
+
 </p>
 <br />
-
+Next Agent will be John with limited access as a worker.
+From the Agents tab click on add new.
+Just as before fill out all information and set password.
+On the next tab  under the drop down select support and now view only.
+Now the tabs for permissions and Teams we will leave these as is and create.
+Once you create you can now see both new agents are added.
+<p>
+</p>
+<br />
+<img src="https://i.imgur.com/zY73z9Y.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/fVDmRUo.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/Vi0Nnqm.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/M3LLEYq.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/Yrrw40h.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/pEO1c0t.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="" height="80%" width="80%" alt="Configuration Steps"/>
 <p>
 
 </p>
