@@ -128,7 +128,7 @@ Finally under the Teams tab on the drop down menu select online banking.
 Next Agent will be John with limited access as a worker.
 From the Agents tab click on add new.
 Just as before fill out all information and set password.
-On the next tab  under the drop down select support and now view only.
+On the next tab  under the drop down select support and now view only for the access.
 Now the tabs for permissions and Teams we will leave these as is and create.
 Once you create you can now see both new agents are added.
 <p>
@@ -140,23 +140,23 @@ Once you create you can now see both new agents are added.
 <img src="https://i.imgur.com/M3LLEYq.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/Yrrw40h.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/pEO1c0t.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
+
 <p>
 
 </p>
 <p>
-We will also have to add Users/ Customers 
+We will also have to add Users/ Customers.
+On the top right select Agent panel.Once there select users and then ADD user.
+Fill out end user/customer info and tap add user .
+Once done you can see user was added.  
 </p>
 <br />
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/pEO1c0t.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/nEYGCxa.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/lZKz3C7.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/Gz9c77k.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/h1ZVQf8.png" height="80%" width="80%" alt="Configuration Steps"/>
+
 <p>
 
 </p>
