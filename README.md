@@ -67,18 +67,28 @@ Now in Add new Department under parent select Top-Level- Department and next nam
 
 
 Once the Departments are setup we will now configure Teams. From the same screen now navigate to the Teams tab and now add a new team.
-Name this Online Banking.
+Name this Online Banking and now create. We have now implemented a Level 1 Support member . We will also have to implement and allow anyone to create a ticket so they will not have to register.
 <p>
 
 
 
 
 <img src="https://i.imgur.com/AoD1SI1.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/q8lQuHt.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/qpW8wt6.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/q8lQuHt.png" height="80%" width="80%" alt="Configuration Steps"/>
+br />
+
+<p>
+
+</p>
+
+
+In the settings tab under Registartion Required make sure this is unchecked.
+
+
+
+<img src="https://i.imgur.com/NgZ3ylh.png" height="80%" width="80%" alt="Configuration Steps"/>
+
 </p>
 <br />
 
