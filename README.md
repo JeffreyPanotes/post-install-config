@@ -74,6 +74,7 @@ Name this Online Banking and now create. We have now implemented a Level 1 Suppo
 
 
 <img src="https://i.imgur.com/AoD1SI1.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/DFGGajn.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/qpW8wt6.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/q8lQuHt.png" height="80%" width="80%" alt="Configuration Steps"/>
 br />
