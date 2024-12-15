@@ -67,7 +67,7 @@ Now in Add new Department under parent select Top-Level- Department and next nam
 
 
 Once the Departments are setup we will now configure Teams. From the same screen now navigate to the Teams tab and now add a new team.
-Name this Online Banking and now create. We have now implemented a Level 1 Support member . We will also have to implement and allow anyone to create a ticket so they will not have to register.
+Name this Online Banking and now create. We will also have to implement and allow anyone to create a heat ticket so they will not have to register.
 <p>
 
 
@@ -84,7 +84,7 @@ br />
 </p>
 
 
-In the settings tab under Registartion Required make sure this is unchecked.
+In the settings tab under Registration Required make sure this is unchecked.
 
 
 
@@ -97,14 +97,30 @@ In the settings tab under Registartion Required make sure this is unchecked.
 
 </p>
 
-Now we will create and configure agents /workers.
+Now we will create and configure agents /workers. On the agents tab click and add new.
+On account fill out first and last name as well as a email addresse.
+Now create a user name and set password.
+Once you choose a password uncheck cange at next login.
+
+
 <p>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/DFGGajn.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/xxSIkA2.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/HRXnERE.png" height="80%" width="80%" alt="Configuration Steps"/>
+<br />
+
+<p>
+
+</p>
+Next we will go through the Access tab  On the drop down menu select SysAdmin and then select Supreme Admin..
+Under Permissions make sure all tabs are selected .
+Finally under the Teams tab on the drop down menu select online banking.
+
+
+  
+<img src="https://i.imgur.com/0CSzLy1.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/ba2QdZD.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/TdYjuv9.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
