@@ -31,7 +31,7 @@ After Installation of OS Ticket we will need to configure Roles for grouping per
 
 
 First on the top right panel you can see the Admin Panel click on this tab from there ,now navigate to > Agents > Roles add a new role.
-Name this Supreme Admin. They will access to all components. Next move to permissions and select all boxes as the Supreme Admin will be allowed access to all areas areas in Tickets/ Tasks /and Knowledgebase.
+Name this Supreme Admin. They will need access to all components. Next move to permissions and select all boxes as the Supreme Admin will be allowed access to all areas areas in Tickets/ Tasks /and Knowledgebase.Once complete add role and now on last screen you can see a new role  for Supreme Admin was added.
 
 
 <img src="https://i.imgur.com/AtMPBCO.png" height="80%" width="80%" alt="Configuration Steps"/>
@@ -41,6 +41,7 @@ Name this Supreme Admin. They will access to all components. Next move to permis
 <img src="https://i.imgur.com/SV0bnSx.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/MWM32ts.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/YlM623I.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/2WTIUAd.png" height="80%" width="80%" alt="Configuration Steps"/>
 
 
 <p>
