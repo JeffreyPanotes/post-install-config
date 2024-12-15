@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configurations</h1>
-This demonstrates the necessary changes I make to configure osTicket so it can be used as a proper ticketing system.<br />
+This demonstrates the necessary changes we make to configure osTicket so it can be used as a proper ticketing system.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -199,4 +199,4 @@ Finally, Help Topics need to be created to help users select an appropriate cate
 
 <h2>osTicket Configurations are Complete </h2>
 
-Now that the configurations have been set in place, we can now utilize osTicket as a proper ticketing system. I can create tickets and be able to traige them as if I were in a real environment.
+Now that the configurations have been set in place, we can now utilize osTicket as a proper ticketing system. We can create tickets and be able to traige them as if I were in a real environment.
