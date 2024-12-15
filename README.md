@@ -161,17 +161,23 @@ Once done you can see user was added.
 
 </p>
 <p>
-Once the steps above are created we will now need to set SLA priorities 
+Once the steps above are created we will now need to set SLA priorities.These will dicate what is most important and how long a Help desk will have to resolve customer issues.
+Now we are back in the Admin Panel top right select agent and this will switch to Admin.
+Select manage and then SLA.
+We will create three differant SLA groups . SEV-A with a High importance and needed responese time of within one hour of ticket request with a 24/7 response time .SEV-B with a four hour respone time and also with a 24/7 respone time .And last but not least SEV-C with a respone time of eight hours and only worked during a MON-Friday 8am-5pm with US holidays .
+Now once all SLA's are added they are now visable in the SLA plan.
+
+  
 </p>
 <br />
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/ycmE5OZ.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/pamrMwV.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/pO5EXNW.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/e3cm8nh.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/ydcJcqi.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/J6dgDjr.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/bfUXZf9.png" height="80%" width="80%" alt="Configuration Steps"/>
+
 <p>
 
 </p>
